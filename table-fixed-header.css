@@ -1,4 +1,4 @@
-table .header-fixed {
+table .table-fixed-header {
   position: fixed;
   top: 40px;
   /*left: 0;*/
